@@ -1,7 +1,7 @@
 """Entry for make.fun: The Most Boring Object, Reviewed in One Line.
 
-A one-line, one-star review of a doorstop: nine years on the same
-door, still upstaged by the wind.
+A one-line, one-star review of a humble doorstop: nine years on
+the same door, still upstaged by the wind.
 """
 import os
 
